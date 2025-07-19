@@ -30,7 +30,6 @@ A Streamlit-based interactive dashboard to analyze and visualize student perform
 
 student-progress-dashboard/
 │
-├── app.py                      # Main Streamlit app
 ├── student\_performance\_data.csv  # CSV dataset
 ├── Student Progress.ipynb      # Development notebook
 └── README.md                   # Project documentation
@@ -51,7 +50,7 @@ student-progress-dashboard/
 3. "Run the app"
 
    ```bash
-   streamlit run app.py
+   streamlit run Student Progress.ipynb
 
 # 📊 Sample Dashboard Output
 
